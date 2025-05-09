@@ -94,5 +94,5 @@ section{
     }
 
     .fundo-galeria{
-        background: url('img/flor-bottom-direita.png'); vbottom 
+        background: url('img/flor-bottom-direita.png'); bottom right no-repeat;
     }
